@@ -15,7 +15,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/resume_vinni.pdf
+    # url: /cv/
     
   - title: "Tools"
     url: /tools/
