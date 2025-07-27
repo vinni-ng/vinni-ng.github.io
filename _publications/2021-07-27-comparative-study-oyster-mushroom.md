@@ -2,7 +2,7 @@
 title: "Comparative Study on Cultivation of Oyster Mushroom Pleurotus ostreatus on Different Substrates"
 collection: publications
 category: manuscripts
-permalink:publication/2021-06-01-comparative-study-oyster-mushroom
+permalink: /publication/2021-06-01-comparative-study-oyster-mushroom
 excerpt: "Evaluation of growth, yield and nutritional composition of Pleurotus ostreatus on straw, coir pith, newspaper, sawdust and banana leaves."
 date: 2021-06-01
 venue: "International Journal of Scientific Research and Engineering Development"
