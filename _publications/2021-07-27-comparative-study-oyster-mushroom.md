@@ -6,7 +6,7 @@ permalink: /publication/2021-06-01-comparative-study-oyster-mushroom
 excerpt: "Evaluation of growth, yield and nutritional composition of Pleurotus ostreatus on straw, coir pith, newspaper, sawdust and banana leaves."
 date: 2021-06-01
 venue: "International Journal of Scientific Research and Engineering Development"
-slidesurl: "/files/comparative_oyster_mushroom_slides.pdf"
+slidesurl: "/files/comparative_oyster_mushroom_slide.pdf"
 paperurl:  "/files/comparative_oyster_mushroom_paper.pdf"
 bibtexurl: "/files/comparative_oyster_mushroom.bib"
 authors:
