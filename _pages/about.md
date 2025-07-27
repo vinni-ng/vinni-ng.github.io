@@ -20,6 +20,7 @@ Specifically in area of
 - Virology
 - Cancer Biology
 - Computational Biology
+- Machine Learning
 
 Whether it's pipetting samples or writing Python scripts, I love building tools that help data and experiments echo each other.  
 Currently, I work at **CMS College Kottayam** with Dr. Vibin Ipe Thomas, where I focus on computational analysis and machine learning to predict host-virus interactions.
